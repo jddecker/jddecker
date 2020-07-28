@@ -1,6 +1,12 @@
-### Hi there 👋
+# Jeffrey David Decker @jddecker
+
+Hello, I’m a computer hobbyist working on small projects to learn more on how computer programming, design, and engineering works.
+
+🌱 I’m currently learning 🐍 Python, HTML, and CSS.
 
 <!--
+### Hi there 👋
+
 **jddecker/jddecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
