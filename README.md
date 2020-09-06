@@ -4,8 +4,7 @@ Hello, I’m a computer hobbyist working on small projects to learn more on how 
 
 I’m currently learning Python, HTML, and CSS.
 
-- 🔭 I’m currently working on [building a website about my dad](https://fldecker.com)
-- 🌱 I’m currently learning more SQL
+I’m currently working on [building a website about my dad](https://fldecker.com)
 
 
 <!--
