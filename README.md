@@ -6,7 +6,8 @@ Hello, I’m a computer hobbyist working on small projects to learn more on how 
 * I’m currently working on [building a website about my dad](https://fldecker.com)
 
 Find me at:  
-[Github](https://github.com/jddecker) | [LinkedIn](https://www.linkedin.com/in/jeffreydecker/) | [Instagram](https://www.instagram.com/jeffreydaviddecker/) | [jddecker.com](https://jddecker.com) | [jeffrey@jddecker.com](mailto:jeffrey@jddecker.com)
+[Github](https://github.com/jddecker) | [LinkedIn](https://www.linkedin.com/in/jeffreydecker/) | [Instagram](https://www.instagram.com/jeffreydaviddecker/)  
+[jddecker.com](https://jddecker.com) | [jeffrey@jddecker.com](mailto:jeffrey@jddecker.com)
 
 <!--
 ### Hi there 👋
