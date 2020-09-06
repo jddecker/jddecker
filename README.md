@@ -8,7 +8,7 @@ I’m a computer hobbyist working on small projects to learn more on how compute
 * I’m currently working on [building a website about my dad](https://fldecker.com)
 
 Find me at:  
-[Github](https://github.com/jddecker) | [LinkedIn](https://www.linkedin.com/in/jeffreydecker/) | [Instagram](https://www.instagram.com/jeffreydaviddecker/)
+[GitHub](https://github.com/jddecker) | [LinkedIn](https://www.linkedin.com/in/jeffreydecker/) | [Instagram](https://www.instagram.com/jeffreydaviddecker/)
 
 Personal website:  
 [jddecker.com](https://jddecker.com)
