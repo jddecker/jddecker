@@ -6,7 +6,3 @@ I'm a computer hobbyist working on small projects to learn more on how computer 
 
 * I'm currently learning Python, HTML, CSS, SQL, and PowerShell
 * I'm currently working on [building a website about my dad](https://fldecker.com)
-
-Find me at: [GitHub](https://github.com/jddecker), [LinkedIn](https://www.linkedin.com/in/jeffreydecker/), [Instagram](https://www.instagram.com/jeffreydaviddecker/)  
-Personal website: [jddecker.com](https://jddecker.com)  
-Contact: <jeffrey@jddecker.com>
